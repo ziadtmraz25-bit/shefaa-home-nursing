@@ -29,6 +29,9 @@ export function Footer() {
           </div>
         </div>
       </div>
+      <div className="border-t border-slate-100 py-4 text-center text-sm font-semibold text-slate-500">
+        تحت إدارة زياد اسماعيل
+      </div>
     </footer>
   );
 }
